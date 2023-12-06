@@ -1,2 +1,2 @@
-# my-resolution-2023
+# my-resolution
 My 2023/2024 resolution repository
