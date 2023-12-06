@@ -2,6 +2,6 @@ My Resolution in 2023/2024
 1. Keep learning everyday
 2. Can code in Linux OS
 3. Become someone who is useful to others
-4. Achive other expertise certificates
-5. Learn CyberSec
-6. Learn ReactJS
+4. Learn CyberSec
+5. Learn AngularJS
+6. Learn PHP Frameworks (Laravel)
