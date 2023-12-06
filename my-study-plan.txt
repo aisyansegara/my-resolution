@@ -1,0 +1,3 @@
+My Study Plan
+1. Learn C++, Java, and Python
+2. Learn Data Structures
