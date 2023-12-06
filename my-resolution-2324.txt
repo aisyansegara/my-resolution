@@ -4,4 +4,7 @@ My Resolution in 2023/2024
 3. Become someone who is useful to others
 4. Learn CyberSec
 5. Learn AngularJS
-6. Learn PHP Frameworks (Laravel)
+4. Achive other expertise certificates
+6. Learn ReactJS
+7. Learn VueJS
+8. PHP Frameworks (CodeIgniter and Laravel)
