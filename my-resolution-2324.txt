@@ -4,3 +4,4 @@ My Resolution in 2023/2024
 3. Become someone who is useful to others
 4. Achive other expertise certificates
 5. Learn CyberSec
+6. Learn ReactJS
